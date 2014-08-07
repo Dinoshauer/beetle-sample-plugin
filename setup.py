@@ -9,7 +9,7 @@ setup(
     license='MIT',
     keywords='',
     packages=[
-        'beetle_sample'
+        'beetle_sample_plugin'
     ],
     classifiers=[
         '',
